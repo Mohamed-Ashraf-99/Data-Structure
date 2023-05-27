@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\ArrayList.h(16,28): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\ArrayList.h(15,1): message : while compiling class template member function 'void Array<int>::ExpandArray(void)'
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\ArrayList.h(102,15): message : see reference to function template instantiation 'void Array<int>::ExpandArray(void)' being compiled
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\Source.cpp(28,18): message : see reference to class template instantiation 'Array<int>' being compiled
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\ArrayList.h(24,11): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\5-ArrayList\ArrayList.h(163): warning C4715: 'Array<int>::Find': not all control paths return a value
+  5-ArrayList.vcxproj -> D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\1-Array&Linked-list\My-Code\5-ArrayList\x64\Debug\5-ArrayList.exe
