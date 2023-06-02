@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\2-Lec2-LinkedList\My-Code\4-Double-Linked-List\4-Double-Linked-List\Source.cpp(144,17): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\2-Lec2-LinkedList\My-Code\4-Double-Linked-List\4-Double-Linked-List\Source.cpp(168,17): warning C4553: '==': result of expression not used; did you intend '='?
+  4-Double-Linked-List.vcxproj -> D:\Programming\Mohamed Moshrif (Fundmental)\Lec\4-Data Structure\2-Lec2-LinkedList\My-Code\4-Double-Linked-List\x64\Debug\4-Double-Linked-List.exe
